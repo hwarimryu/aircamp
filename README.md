@@ -10,7 +10,7 @@ CtoC 캠핑용품 대여 서비스.
 담당 역할(PL)
 - 개발환경 구축 및 샘플 프로젝트 작성
 - Spring Security를 사용해 authorization 관리, user와 handler를 커스터마이징 하여 ajax방식으로 로그인/로그아웃 구현
-- 코드통합과 디버
+- 코드통합과 디버깅
 
 팀구성 ― PM, PL, 개발3
 https://github.com/hwarimryu/about/aircamp
