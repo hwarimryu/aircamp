@@ -14,4 +14,4 @@ Spring JSP OracleDatabase jQuery MyBatis Apache-Tomcat CSS3 SpringSecurity
 - 코드통합과 디버깅
 
 팀구성 ― PM, PL, 개발3
-https://github.com/hwarimryu/about/aircamp
+데모영상 https://youtu.be/uyGazmCCHUw
